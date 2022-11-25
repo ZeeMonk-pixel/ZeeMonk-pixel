@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ZeeMonk-pixel
+- 👋 Hi, I’m Asha Gabriel O.
 - 👀 I’m interested in ... exploring the opportunites in the tech field to the later.
 - 🌱 I’m currently learning ... Javascript & Reactjs.
 - 💞️ I’m looking to collaborate on ... Front-end dev projects.
